@@ -1,2 +1,5 @@
 # EmojiPedia
-Created with CodeSandbox
+
+https://hqudyp.csb.app/  
+
+link to the created project using react 
